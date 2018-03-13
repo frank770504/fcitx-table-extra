@@ -12627,6 +12627,7 @@ jve 摥
 jvev 摥
 jvff 撫
 jvff 抚
+jvff 撨
 jvj 拂
 jvj 払
 jvl 攬
